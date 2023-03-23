@@ -1,1 +1,1 @@
-FROM nanthakps/wz:heroku
+FROM nanthakps/kpsml:heroku
